@@ -2,6 +2,7 @@
 
 ![JhonCND GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonCND&show_icons=true&theme=radical)
 
+### NETWORK
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-almeida-210696191/)
 [![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonalmeidakkk/)
 
@@ -17,4 +18,3 @@
     <img aling="center" alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img aling="center" alt="html5"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
-

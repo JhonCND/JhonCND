@@ -5,6 +5,7 @@
 ### NETWORK
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-almeida-210696191/)
 [![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonalmeidakkk/)
+[![satck](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16039617/jhon-cnd)
 
 ### LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCND&layout=compact)](https://github.com/Jhoncnd/github-readme-stats)

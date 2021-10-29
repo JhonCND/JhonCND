@@ -8,14 +8,15 @@
 <img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;"
 <a/>
-  
 <a href="https://www.instagram.com/jhonalmeidakkk/" target="_black"> 
 <img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
 style="max-width:100%;"
 <a/>
-  
-[![satck](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16039617/jhon-cnd)
+<a href="https://stackoverflow.com/users/16039617/jhon-cnd" target="_black"> 
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"
+style="max-width:100%;"
 <a/>
+
 ---
 ### LANGUAGES:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCND&layout=compact)](https://github.com/Jhoncnd/github-readme-stats)

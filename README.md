@@ -7,8 +7,6 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" target="_black"> 
 <img align="center" alt="joao-linkdin" heigth="40" width="40" src="https://www.linkedin.com/in/jo%C3%A3o-victor-almeida-210696191/"
 <a/>
-[![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonalmeidakkk/)
-[![satck](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16039617/jhon-cnd)
 
 ---
 ### LANGUAGES:

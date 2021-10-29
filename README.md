@@ -18,9 +18,10 @@ style="max-width:100%;"
 <a/>
 
 ---
-### LANGUAGES:
+### PROJECTS:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCND&layout=compact)](https://github.com/Jhoncnd/github-readme-stats)
- 
+---
+### SKILL:
 <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 style="max-width:100%;"></img>
 <img align="center" alt="css3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"

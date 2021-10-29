@@ -7,10 +7,11 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-almeida-210696191/" target="_black"> 
 <img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;"
-<a/>
+
 
 [![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonalmeidakkk/)
 [![satck](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/16039617/jhon-cnd)
+<a/>
 ---
 ### LANGUAGES:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCND&layout=compact)](https://github.com/Jhoncnd/github-readme-stats)

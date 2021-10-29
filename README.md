@@ -23,7 +23,23 @@ style="max-width:100%;"
  
 <img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
+style="max-width:100%;"></img>
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+style="max-width:100%;"></img>
   
+ 
+
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img aling="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

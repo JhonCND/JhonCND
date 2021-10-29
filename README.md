@@ -10,7 +10,7 @@ style="max-width:100%;"
 <a/>
   
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-almeida-210696191/" target="_black"> 
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+<img align="center" alt="joao-linkdin" heigth="30" width="40" src=https://cdn-icons-png.flaticon.com/512/174/174855.png"
 style="max-width:100%;"
 <a/>
   

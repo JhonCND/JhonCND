@@ -21,31 +21,19 @@ style="max-width:100%;"
 ### LANGUAGES:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCND&layout=compact)](https://github.com/Jhoncnd/github-readme-stats)
  
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+<img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+<img align="center" alt="css3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+<img align="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+<img align="center" alt="javascript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+<img align="center" alt="django" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+<img align="center" alt="mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
+<img align="center" alt="heroku" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
 style="max-width:100%;"></img>
-<img align="center" alt="joao-linkdin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+<img align="center" alt="glooglecloud" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
 style="max-width:100%;"></img>
-  
- 
-
-<div style="display: inline_block"><br/>
-  <img aling="center" alt="html5"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img aling="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="center" alt="html5"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="center" alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img aling="center" alt="html5"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img aling="center" alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img aling="center" alt="html5"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-</div>
